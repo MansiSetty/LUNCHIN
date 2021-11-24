@@ -1,4 +1,4 @@
-# amazon
+# LUNCHIN'
 1. app.js is the customer app
 2. app2.js is the chef app
 3. app7.js is the delivery app
